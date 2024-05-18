@@ -1,6 +1,6 @@
 {
   "bsc_node_url": "https://bsc-dataseed1.binance.org/",
-  "eth_node_url": "https://mainnet.infura.io/v3/56bb53b84c2e439fa277c9e6522044fe",
+  "eth_node_url": "https://mainnet.infura.io/v3/API",
   "iteration": 1000,
   "path": "m/44'/60'/0'/0/0"
 }
